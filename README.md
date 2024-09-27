@@ -55,7 +55,7 @@
 
 - Recorded presentation video
 
-##LOW XIANG ZHI
+## LOW XIANG ZHI
 
 22//09/2024:
 -Started do design Figma
