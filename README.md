@@ -1,4 +1,4 @@
-# aug-project
+# Aug-project
 
 ## YAP HUI CHI
 
