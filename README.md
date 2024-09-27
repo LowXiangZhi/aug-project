@@ -8,7 +8,7 @@
 - start doing a site map based on the webpage
 
 26/09/2024
-
+- last checking for the website make sure able to run and present it in video
 - start arranging the part of the video recording
 
 27/09/2024
