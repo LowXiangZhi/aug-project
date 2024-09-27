@@ -32,22 +32,28 @@
 ## GOH WEI JING
 
 21/09/2024:
--Created a figma files
+
+- Created a figma files
 
 22/09/2024:
--Started to design Figma
+
+- Started to design Figma
 
 23/09/2024:
--Done main page
+
+- Done main page
 
 24/09/2024:
--Done Cart and Favourite
+
+- Done Cart and Favourite
 
 26/09/2024:
--Done all checkout and Profile
+
+- Done all checkout and Profile
 
 27/09/2024:
--Record my presentation
+
+- Record my presentation
 
 LOW XIANG ZHI
 
