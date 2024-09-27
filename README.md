@@ -10,10 +10,19 @@ YAP HUI CHI
 - start arranging the part of the video recording
 
 27/09/2024
-- recording video
+- recording presentation video
   
 
 TENG MING HEIN
+
+20/09/2024:
+- create a webpage design on wix.com
+
+21/09/2024:
+- start working webpage design features
+
+27/09/2024:
+- recording presentation video
 
 GOH WEI JING 
 
