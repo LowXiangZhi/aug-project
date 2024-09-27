@@ -8,13 +8,16 @@
 - start doing a site map based on the webpage
 
 26/09/2024
-- last checking for the website make sure able to run and present it in video
+
+- last checking for the website make sure it is able to run and present it in video
 - start arranging the part of the video recording
 
 27/09/2024
 
 - recording presentation video
+- gather everything material and check the documentation
 
+  
 ## TENG MING HEIN
 
 20/09/2024:
@@ -28,6 +31,7 @@
 27/09/2024:
 
 - recording presentation video
+
 
 ## GOH WEI JING
 
@@ -55,6 +59,7 @@
 
 - Recorded presentation video
 
+
 ## LOW XIANG ZHI
 
 22//09/2024:
@@ -66,5 +71,6 @@
 27/09/2024:
 -Done do design Figma
 -done recording presentation video
+
 
 ## DANIA AHMED ELNAGIB ABDELRAHIM AHMED
