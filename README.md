@@ -53,7 +53,7 @@
 
 27/09/2024:
 
-- Record my presentation
+- Recorded presentation video
 
 LOW XIANG ZHI
 
