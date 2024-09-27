@@ -56,5 +56,14 @@
 - Recorded presentation video
 
 LOW XIANG ZHI
+22//09/2024:
+-Started do design Figma
+
+24/09/2024:
+-Dicuss with groupmate
+
+27/09/2024:
+-Done do design Figma
+-done recording presentation video
 
 DANIA AHMED ELNAGIB ABDELRAHIM AHMED
